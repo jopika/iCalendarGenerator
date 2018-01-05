@@ -1,0 +1,36 @@
+
+// Laboratory  
+
+CPSC 121 L2A //  Tue  // 16:30  // 18:30
+CPSC 121 L2B //  Wed  // 17:00  // 19:00
+CPSC 121 L2C //  Fri  // 10:00  // 12:00
+CPSC 121 L2D //  Thu  // 14:00  // 16:00
+CPSC 121 L2E //  Thu  // 16:00  // 18:00
+CPSC 121 L2F //  Tue  // 09:00  // 11:00
+CPSC 121 L2G //  Tue  // 11:00  // 13:00
+CPSC 121 L2H //  Fri  // 12:00  // 14:00
+CPSC 121 L2J //  Wed  // 11:00  // 13:00
+CPSC 121 L2K //  Mon  // 16:00  // 18:00
+CPSC 121 L2L //  Wed  // 13:00  // 15:00
+CPSC 121 L2M //  Thu  // 09:00  // 11:00
+CPSC 121 L2N //  Mon  // 11:00  // 13:00
+CPSC 121 L2P //  Mon  // 13:00  // 15:00
+CPSC 121 L2Q //  Tue  // 13:00  // 15:00
+CPSC 121 L2R //  Fri  // 16:00  // 18:00
+CPSC 121 L2S //  Mon  // 18:00  // 20:00
+CPSC 121 L2T //  Thu  // 18:00  // 20:00
+
+// Tutorial    
+
+CPSC 121 T2A  //  Mon  // 11:00  // 12:00
+CPSC 121 T2B  //  Mon  // 13:00  // 14:00
+CPSC 121 T2C  //  Tue  // 13:00  // 14:00
+CPSC 121 T2D  //  Wed  // 16:00  // 17:00
+CPSC 121 T2E  //  Mon  // 14:00  // 15:00
+CPSC 121 T2F  //  Fri  // 14:00  // 15:00
+CPSC 121 T2G  //  Mon  // 12:00  // 13:00
+CPSC 121 T2H  //  Tue  // 15:30  // 16:30
+CPSC 121 T2J  //  Wed  // 09:00  // 10:00
+CPSC 121 T2K  //  Wed  // 12:00  // 13:00
+CPSC 121 T2P  //  Mon  // 09:00  // 10:00
+CPSC 121 T2Q  //  Tue  // 12:00  // 13:00
